@@ -258,7 +258,7 @@ export default function App() {
       </main>
 
       <footer className="footer">
-        <span>Built with React & Vite • Deploy on Vercel</span>
+        <span>Build by Sahil Mulani</span>
       </footer>
     </div>
   );
