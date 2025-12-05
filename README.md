@@ -14,7 +14,6 @@ This project helps to   understand, compare, and visually debug   sorting algori
   - Insertion Sort
   - Merge Sort
   - Quick Sort
-  - (You can add more as needed)
 - Adjustable:
   -   Array size   (number of bars)
   -   Sorting speed   (animation delay)
@@ -36,7 +35,7 @@ This project helps to   understand, compare, and visually debug   sorting algori
 
 ⚙️ Getting Started (Run Locally)
 1️⃣ Clone the repository
-git clone https://github.com/your-username/sorting-visualizer.git
+git clone https://github.com/MulaniSahil/sorting-visualizer
 cd sorting-visualizer
 
 2️⃣ Install dependencies
