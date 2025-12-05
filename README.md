@@ -69,7 +69,9 @@ Elements already sorted
 
 📸 Screenshots / Demo
 
+![alt text](image.png)
 
+![alt text](image-1.png)
 
 👨‍💻 Developer
 
